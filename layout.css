@@ -1,0 +1,155 @@
+.container {
+  width: 100%;
+  max-width: 420px;
+  margin: auto;
+}
+
+.row {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.col-1,
+.col-2,
+.col-3,
+.col-4,
+.col-5,
+.col-6,
+.col-7,
+.col-8,
+.col-9,
+.col-10,
+.col-11,
+.col-12 {
+  position: relative;
+  width: 100%;
+  min-height: 1px;
+  margin-right: 0.5%;
+  margin-left: 0.5%;
+}
+
+.col-1 {
+  max-width: 7.33%;
+}
+
+.col-2 {
+  max-width: 15.66%;
+}
+
+.col-3 {
+  max-width: 24%;
+}
+
+.col-4 {
+  max-width: 32.33%;
+}
+
+.col-5 {
+  max-width: 40.66%;
+}
+
+.col-6 {
+  max-width: 49%;
+}
+
+.col-7 {
+  max-width: 57.33%;
+}
+
+.col-8 {
+  max-width: 65.66%;
+}
+
+.col-9 {
+  max-width: 74%;
+}
+
+.col-10 {
+  max-width: 82.33%;
+}
+
+.col-11 {
+  max-width: 90.66%;
+}
+
+.col-12 {
+  max-width: 99%;
+}
+
+.offset-1 {
+  margin-left: 8.33%;
+}
+
+.offset-2 {
+  margin-left: 16.66%;
+}
+
+.offset-3 {
+  margin-left: 25%;
+}
+
+.offset-4 {
+  margin-left: 33.33%;
+}
+
+.offset-5 {
+  margin-left: 41.66%;
+}
+
+.offset-6 {
+  margin-left: 50%;
+}
+
+.offset-7 {
+  margin-left: 58.33%;
+}
+
+.offset-8 {
+  margin-left: 66.66%;
+}
+
+.offset-9 {
+  margin-left: 75%;
+}
+
+.offset-10 {
+  margin-left: 83.33%;
+}
+
+.offset-11 {
+  margin-left: 91.66%;
+}
+
+.offset-12 {
+  margin-left: 100%;
+}
+
+/* The media queries below will automatically adjust the width of the
+container class depending on the size of the current browser window. Without
+media queries, building responsive designs is almost impossible, as it allows
+the content of the website to adapt to the screen it is displayed on. */
+
+@media only screen and (min-width: 577px) {
+  .container {
+    max-width: 500px;
+  }
+}
+
+@media only screen and (min-width: 769px) {
+  .container {
+    max-width: 575px;
+  }
+}
+
+@media only screen and (min-width: 993px) {
+  .container {
+    max-width: 720px;
+  }
+}
+
+@media only screen and (min-width: 1251px) {
+  .container {
+    max-width: 960px;
+  }
+}

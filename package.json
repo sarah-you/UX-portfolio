@@ -1,0 +1,17 @@
+{
+  "name": "prep-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A practice portfolio web page",
+  "scripts": {
+    "prepare": "husky install"
+  },
+  "devDependencies": {
+    "husky": "^8.0.1",
+    "lint-staged": "^13.0.3",
+    "markuplint": "^2.10.1",
+    "stylelint": "^14.10.0",
+    "stylelint-config-recommended": "^9.0.0",
+    "stylelint-config-standard": "^27.0.0"
+  }
+}
