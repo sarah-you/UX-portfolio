@@ -57,7 +57,7 @@ I arranged a few problem statements based on our findings to highlight opportuni
 
 ![problem statement](/Assets/GoldsGym/problem%20statement.jpeg)
 
-### Ideate
+## Ideate
 With a clear understanding of our user's pain points, I began brainstorming solutions.
 
 ### How Might We

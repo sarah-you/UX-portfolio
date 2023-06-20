@@ -61,7 +61,7 @@ I composed a storyboard by organizing the data from the survey and empathy map t
 
 ![storyboard](/Assets/WNRS/Storyboard.png)
 
-### Ideate
+## Ideate
 After personifying our potential users and finding opportunities for the app in their lives, I began brainstorming and exploring ways to address the problem statement.
 
 ![brainstorm](/Assets/WNRS/brainstorm%20image.jpeg)
