@@ -1,0 +1,13 @@
+.cs1-h1 {
+  text-align: center;
+}
+
+.overview-img-wrap {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.overview-img {
+  width: 50%;
+}

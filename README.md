@@ -1,3 +1,3 @@
-# Prep Course Portfolio Page
+# UX Portfolio Page
 
-An HTML and CSS page to showcase my work.
+#### Please navigate to each Case Study directories and open the `index.html` in a browser to view each project!
