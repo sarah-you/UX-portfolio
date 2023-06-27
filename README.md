@@ -2,7 +2,7 @@
 
 Projects following DesignLab's UX Design Foundations and UX Research & Strategy certifications. 
 
-Please navigate to each Case Study directories and open the `index.html` in a browser or follow the links provided here to view each project!
+Please navigate to each Case Study's directory > `file.md` or follow the links provided here to view each project!
 
 - [Case Study 1 We're Not Really Strangers (WNRS)](https://github.com/sarah-you/ux-portfolio/blob/main/Case%20Study%201/WNRS.md)
 
